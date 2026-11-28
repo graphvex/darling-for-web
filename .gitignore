@@ -1,3 +1,13 @@
+# Local CLion/CMake/macOS/b metadata outputs
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+.idea/
+.DS_Store
+.b/
+
 # Prerequisites
 *.d
 
